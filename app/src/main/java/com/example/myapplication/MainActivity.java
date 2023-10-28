@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
         btnConductor = findViewById(R.id.btnConductor);
 
         btnCliente.setOnClickListener(view -> goToSelectAuth());
+        btnConductor.setOnClickListener(view -> goToSelectAuth());
+
     }
 
     private void goToSelectAuth() {
