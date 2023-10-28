@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745293913306",
+    "project_id": "appmovil-a63a2",
+    "storage_bucket": "appmovil-a63a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745293913306:android:8bbf5a06c341e0e33c19e3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYLrMXsnjj6p2i9YUfzVL6oFMgN2PfgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

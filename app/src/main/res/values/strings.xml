@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="imDelivery">SOY CONDUCTOR</string>
+    <string name="imConsumer">SOY CLIENTE</string>
+    <string name="description">APLICATIVO MÓVIL PARA SOLICITAR MOVILIDAD</string>
+    <string name="acc">YA TENGO CUENTA</string>
+    <string name="register">REGISTRARSE</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+</resources>
